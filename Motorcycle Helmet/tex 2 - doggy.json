@@ -1,0 +1,48 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 2 - doggy_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "ModdableFace",
+                    "RectInt": {
+                        "x": 10,
+                        "y": 10,
+                        "width": 315,
+                        "height": 349
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 2 - doggy_texture0_layer2.png",
+            "Layer": 2,
+            "PackedDrawables": [
+                {
+                    "Name": "ModdableFace",
+                    "RectInt": {
+                        "x": 10,
+                        "y": 10,
+                        "width": 315,
+                        "height": 349
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}
