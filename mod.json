@@ -1,0 +1,18 @@
+{
+  "name": "Motorcycle Helmet",
+  "description": "A new colorable motorcycle helmet, slightly enlarged and shifted left/up for improved alignment.",
+  "modVersion": "1.0.3",
+  "OnGameStart": {
+    "luaFiles": [
+      "script.lua"
+    ]
+  },
+  "targetVersion": "0.96.7",
+  "languageCode": "en",
+  "doNotChangeVariablesBelowThis": {
+    "timeCreated": 639236182851091660,
+    "guid": {
+      "serializedGuid": "646d10ac-3075-4866-8c9e-9c30052c227b"
+    }
+  }
+}
